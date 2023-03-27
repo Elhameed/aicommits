@@ -1,1 +1,1 @@
-# aicommits
+# aicommit
