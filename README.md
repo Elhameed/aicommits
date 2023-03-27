@@ -5,7 +5,7 @@
 
 AI Commit is a powerful command-line tool that streamlines your Git workflow by using OpenAI's GPT-3 language model to generate commit messages for your Git commits. Have you ever found yourself spending too much time thinking of the perfect commit message that accurately describes your changes? AI Commit eliminates that problem by providing you with a range of quality commit message options in just seconds, so you can spend more time coding and less time writing commit messages.
 
-## Prerequisites
+## Prerequisites :clipboard:
 
 Before installing AI Commit, you will need to generate your OpenAI API key. If you haven't already done this, you can follow the steps in this [video tutorial](https://www.youtube.com/watch?v=nafDyRsVnXU) to get your key.
 
@@ -31,7 +31,7 @@ user@User:~$ pip --version
 pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)
 user@User:~$
 ```
-## Installation
+## Installation :inbox_tray:
 To install AI Commit, please follow the steps below:
 1. Clone the AI Commit repository to your local machine by running the following command in your terminal:
 ```sh
@@ -49,7 +49,7 @@ This will install the required Python packages, copy the AI Commit script to you
 
 Congratulations! You have successfully installed AI Commit on your machine.
 
-## Usage
+## Usage :zap:
 To use AI Commit, do the following:
 1. Export your OpenAI API key as an environment variable by running:
 ```sh
@@ -64,7 +64,7 @@ This will prompt AI Commit to generate a commit message based on your changes. T
 
 **Note:** AI Commit generates one commit message at a time, with the option to generate more if the initial message is rejected.
 
-## Uninstallation
+## Uninstallation :outbox_tray:
 To uninstall AI Commit, please follow the steps below:
 1. Navigate to the directory where you cloned the AI Commit repository by running the following command in your terminal:
 ```sh
