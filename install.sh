@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Install the required Python packages
-pip3 install openai
+pip install openai
 
 # Find the script file in the repository
 script_path=$(find $(pwd) -name "aicommit.py" | head -1)

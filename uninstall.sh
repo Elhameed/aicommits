@@ -7,7 +7,7 @@ sed -i '/alias aicommit="aicommit"/d' ~/.bashrc
 sudo rm /usr/local/bin/aicommit
 
 # Uninstall the required Python packages
-pip3 uninstall -y openai
+pip uninstall -y openai
 
 echo "aicommit has been uninstalled."
 
