@@ -10,6 +10,7 @@ pip --version
 ```
 If you see a version number in the output, it means that pip is installed. If not, you can install pip by following the following command:
 ```sh
+sudo apt-get update
 sudo apt-get install python3-pip
 ```
 Verify that pip has been installed correctly by running:
@@ -27,5 +28,46 @@ user@User:~$
 To install AI Commit, please follow the steps below:
 1. Clone the AI Commit repository to your local machine by running the following command in your terminal:
 ```sh
-git clone 
+git clone https://github.com/Elhameed/aicommits.git
 ```
+2. Change directory into the cloned repository by running the following command in your terminal:
+```sh
+cd aicommits
+```
+3. Run the install.sh script by running the following command in your terminal:
+```sh
+./install.sh
+```
+This will install the required Python packages necessary for `aicommit`
+
+Congratulations! You have successfully installed AI Commit on your machine.
+
+## Usage
+To use AI Commit, simply navigate to the directory of the Git repository you wish to commit changes to, and run the following command in your terminal:
+```sh
+aicommit
+
+```
+This will prompt AI Commit to generate several commit messages based on your changes, allowing you to choose the one that best fits your needs.
+
+## Uninstallation
+To uninstall AI Commit, please follow the steps below:
+1. Navigate to the directory where you cloned the AI Commit repository by running the following command in your terminal:
+```sh
+cd <path-to-aicommits-repo>
+```
+2. Run the uninstall.sh script by running the following command in your terminal:
+```sh
+./uninstall.sh
+```
+This will remove the AI Commit script from your /usr/local/bin directory, remove the alias from your .bashrc file, and uninstall the required Python packages.
+
+Congratulations! You have successfully uninstalled AI Commit from your machine.
+
+## Contribution
+I welcome contributions from the community! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
+
+## LICENSE
+AI Commit is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+
+## Acknowledgments
