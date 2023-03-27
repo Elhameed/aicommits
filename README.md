@@ -78,10 +78,10 @@ This will remove the AI Commit script from your `/usr/local/bin` directory, remo
 
 Congratulations! You have successfully uninstalled AI Commit from your machine.
 
-## Contribution
-I welcome contributions from the community! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
+## Contribution :raised_hands:
+I welcome contributions from the community! If you find a bug 🐛 or have an idea for a new feature 💡, please open an issue or submit a pull request.
 
-## LICENSE
+## LICENSE :scroll:
 AI Commit is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
 ## Acknowledgments
@@ -90,5 +90,5 @@ AI Commit is licensed under the MIT License. See the [LICENSE](./LICENSE) file f
 
 
 ----------
-- If you found AI Commit useful, please consider giving this repo a star!
+- If you found AI Commit useful, please consider giving this repo a star ⭐️!
 
