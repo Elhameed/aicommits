@@ -1,4 +1,4 @@
-# AI Commit
+# AI Commit :robot: :speech_balloon:
 
 ![AI Commit screenshot](aicommit.gif)
 
