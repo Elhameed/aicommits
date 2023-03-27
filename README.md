@@ -87,5 +87,5 @@ AI Commit is licensed under the MIT License. See the [LICENSE](./LICENSE) file f
 
 
 ----------
-If you found AI Commit useful, please consider giving it a star on [GitHub](https://github.com/Elhameed/aicommits)!
+- If you found AI Commit useful, please consider giving this repo a star!
 
