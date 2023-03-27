@@ -84,7 +84,7 @@ I welcome contributions from the community! If you find a bug 🐛 or have an id
 ## LICENSE :scroll:
 AI Commit is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
-## Acknowledgments
+## Acknowledgments :pray:
 - AI Commit is powered by OpenAI's GPT-3 language model. We are grateful for their contributions to the field of artificial intelligence.
 - I would like to give credit to the developers of [aicommits](https://github.com/Nutlope/aicommits), a similar tool that uses Node.js and npm. Their work inspired me to create AI Commit and I am grateful for the contributions they have made to the development community.
 
