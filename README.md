@@ -43,7 +43,12 @@ This will install the required Python packages necessary for `aicommit`
 Congratulations! You have successfully installed AI Commit on your machine.
 
 ## Usage
-To use AI Commit, simply navigate to the directory of the Git repository you wish to commit changes to, and run the following command in your terminal:
+To use AI Commit, do the following:
+1. Export your OpenAI API key as an environment variable by running:
+```sh
+export OPENAI_API_KEY="YOUR_API_KEY_HERE"
+```
+2. Navigate to the directory of the Git repository you wish to commit changes to, and run the following command in your terminal:
 ```sh
 aicommit
 
@@ -71,3 +76,5 @@ I welcome contributions from the community! If you find a bug or have an idea fo
 AI Commit is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
 ## Acknowledgments
+- AI Commit is powered by OpenAI's GPT-3 language model. We are grateful for their contributions to the field of artificial intelligence.
+- I would like to give credit to the developers of [aicommits](https://github.com/Nutlope/aicommits), a similar tool that uses Node.js and npm. Their work inspired me to create AI Commit and I am grateful for the contributions they have made to the development community.
