@@ -23,4 +23,9 @@ user@User:~$ pip --version
 pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)
 user@User:~$
 ```
-
+## Installation
+To install AI Commit, please follow the steps below:
+1. Clone the AI Commit repository to your local machine by running the following command in your terminal:
+```sh
+git clone 
+```
