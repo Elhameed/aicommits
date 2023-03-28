@@ -74,7 +74,7 @@ cd <path-to-aicommits-repo>
 ```sh
 ./uninstall.sh
 ```
-This will remove the AI Commit script from your `/usr/local/bin` directory, remove the alias from your `.bashrc` file, and uninstall the required Python packages.
+This will remove the AI Commit script from your /usr/local/bin directory, remove the alias from your .bashrc file, and uninstall the required Python packages.
 
 Congratulations! You have successfully uninstalled AI Commit from your machine.
 
